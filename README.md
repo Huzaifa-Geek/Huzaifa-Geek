@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Huzaifa Usman 👋
 
-<!--
-**Huzaifa-Geek/Huzaifa-Geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools that collect, process, and transform large amounts of data into actionable insights from competitor intelligence platforms and automated monitoring systems to AI powered applications and high-performance APIs.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+Gymshark Automated Competitor Tracker: 
+An automated spy tool that tracks live e-commerce prices, stock, and market trends 24/7.
+
+Medbot (RAG Application): 
+A production-ready AI app using LangChain, Pinecone, and Groq to query medical documents with natural language.
+
+BI Leadgen Backend: 
+A production-style FastAPI engine powered by Celery and Redis for business intelligence.
+
+
