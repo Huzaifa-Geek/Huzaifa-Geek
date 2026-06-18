@@ -1,1 +1,1 @@
-I build intelligent systems that collect, process, and transform data into meaningful insights—spanning competitor intelligence platforms, automation workflows, AI applications, and scalable backend infrastructure.
+```I build intelligent systems that collect, process, and transform data into meaningful insights spanning competitor intelligence platforms, automation workflows, AI applications, and scalable backend infrastructure.```
