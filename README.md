@@ -5,7 +5,7 @@ I build tools that collect, process, and transform large amounts of data into ac
 
 ### Featured Projects
 
-Gymshark Automated Competitor Tracker: 
+```Gymshark Automated Competitor Tracker: ```
 An automated spy tool that tracks live e-commerce prices, stock, and market trends 24/7.
 
 Medbot (RAG Application): 
